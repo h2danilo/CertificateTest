@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MDBdjj3xUrMuy+zIizT0otOYSarUIwH8KHj/pJtJasVRI6ynED8ewA1jlYR196UP5D+8gZNwA2h+zmuDr+2RCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\h2dan\\source\\repos\\Certificado\\Certificado\\Certificado.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\h2dan\\.nuget\\packages\\restsharp\\108.0.3\\restsharp.108.0.3.nupkg.sha512",
+    "C:\\Users\\h2dan\\.nuget\\packages\\system.text.json\\5.0.1\\system.text.json.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
