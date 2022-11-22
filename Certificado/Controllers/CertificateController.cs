@@ -84,7 +84,7 @@ vwkcac2/UhvRTSBtaSjW502ouKoIuZcRsKXozFdvKl3bo3CfOqCp
             }
             catch (Exception e)
             {
-                return BadRequest(e.Message);
+                return BadRequest("Error: "+e.Message);
             }            
         }
 
